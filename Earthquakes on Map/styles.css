@@ -1,0 +1,31 @@
+@import url('https://unpkg.com/bootstrap@5.3.3/dist/css/bootstrap.min.css');
+
+.ui-elements-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: start;
+  padding-left: 0;
+  font-family: sans-serif;
+  margin-left: 5px;
+  margin-right: 0px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  /* margin-top: 10%;
+  margin-bottom: 10px; */
+}
+/* .ui-elements-container .message {
+  font-size: 32px;
+  color: #333333;
+} */
+
+.ui-elements-container .menus-container {
+  display: flex;
+  gap: 32px;
+}
+
+.ui-elements-container .drag-buttons-container {
+  display: flex;
+  justify-content: space-between;
+  gap: 32px;
+}
