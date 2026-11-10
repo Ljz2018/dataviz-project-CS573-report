@@ -71,6 +71,8 @@ I improved upon the prototype and created an interactive map with bubbles to ill
 
 [![image](https://github.com/Ljz2018/dataviz-project-CS573-proposal/assets/139059537/6e68260a-28f0-4464-9d30-99ae94396a23>)](https://vizhub.com/Ljz2018/a11b81a4002c44edb44c14f259dd948c)
 
+Click [here](https://vizhub.com/Ljz2018/a11b81a4002c44edb44c14f259dd948c) to visit the Interaction Visualization Page.
+
 This map intuitively shows that the majority of the earthquakes occurred along the boundaries of the plates. There are more earthquakes around the Pacific Ocean than in other places on Earth. The region along the south coastline in Alaska and the west coast of America has the most seismic activity. These earthquakes are predominantly less than Magnitude 2.5 (M2.5). Luckily, this is a level that won't cause damage and is not felt by humans. Click and Check the [Earthquake Magnitude Scale](https://www.mtu.edu/geo/community/seismology/learn/earthquake-measure/magnitude/).
 
 Interactions include:
