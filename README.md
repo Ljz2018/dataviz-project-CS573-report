@@ -86,6 +86,8 @@ Interactions include:
 [![image](https://github.com/Ljz2018/dataviz-project-CS573-report/assets/139059537/0cca9752-6649-45ab-a964-ea2bb4e10ca6
 )](https://vizhub.com/Ljz2018/52f6c98fa1164ca4a613bde994b672c3)
 
+Click [here](https://vizhub.com/Ljz2018/52f6c98fa1164ca4a613bde994b672c3) to visit the Interaction Visualization Page.
+
 This scatter plot demonstrates the relationship between the depth and magnitude of earthquakes. All the circles are categorized into three colors, with each color representing a depth range: shallow, intermediate, and deep.
 
 Interaction:
@@ -109,12 +111,16 @@ I combined the map and the magnitude scatter plot onto one data visualization. T
 [![image](https://github.com/Ljz2018/dataviz-project-CS573-proposal/assets/139059537/b3bb6a67-199e-4a3c-97c3-f7ed82bd898e
 )](https://vizhub.com/Ljz2018/14506278d7ae4a198f26e58123195f3d)
 
+Click [here](https://vizhub.com/Ljz2018/14506278d7ae4a198f26e58123195f3d) to visit the Interaction Visualization Page.
+
 This data visualization allows users to select a time frame on the scatter plot and view the earthquakes that occurred within that time frame on the map. By dragging the brush across the x-scale, users can observe the dynamic changes in earthquake occurrences over time.
 
 **2. Earthquakes Linked Views with Brushing on Map** 
 
 [![image](https://github.com/Ljz2018/dataviz-project-CS573-proposal/assets/139059537/724305ec-e036-4a4d-8b01-ffc156a7bcf9
 )](https://vizhub.com/Ljz2018/d37fd82778574054aeb1be33bd953a44)
+
+Click [here](https://vizhub.com/Ljz2018/d37fd82778574054aeb1be33bd953a44) to visit the Interaction Visualization Page.
 
 This is an inversion of the first linked-view data visualization. Users can use the brush tool to select earthquakes on the map and plot the data on the scatter plot. 
 By doing so, we can easily check the seismic activity at one focused spot.
